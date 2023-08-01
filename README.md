@@ -15,10 +15,10 @@ This new DataFrame was then exported to a new csv called, "category.csv". These 
 ## Create the Campaign DataFrame
 Using the same providied Excel file, "crowdfunding.xlsx", a new DataFrame was created with the following columns (including conversions): 
 - cf_id
-contact_id
-company_name
-"blurb", renamed to "description"
-"goal", converted to float
+- contact_id
+- company_name
+- "blurb", renamed to "description"
+- "goal", converted to float
 "pledged", converted to float
 outcome
 backers_count
