@@ -22,7 +22,7 @@ Using the same providied Excel file, "crowdfunding.xlsx", a new DataFrame was cr
 - "pledged", converted to float
 - outcome
 - backers_count
-- - country
+- country
 - currency
 - "launched_at" column, renamed to "launch_date" and the UTC times converted to the datetime format
 - "deadline" column, renamed to "end_date" and the UTC times converted to the datetime format
