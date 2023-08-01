@@ -18,8 +18,8 @@ Using the same providied Excel file, "crowdfunding.xlsx", a new DataFrame was cr
 - contact_id
 - company_name
 - "blurb", renamed to "description"
-- "goal", converted to float
-- "pledged", converted to float
+- "goal", converted to a float
+- "pledged", converted to a float
 - outcome
 - backers_count
 - country
