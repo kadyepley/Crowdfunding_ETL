@@ -3,10 +3,10 @@
 For this project, an ETL pipeline was built using Python, Pandas, and Python dictionary methods in order to extract and transform the data. CSV files were created from the transformed data, providing details for creating an ERD and a table schema. This CSV file data was imported into a Postgres database.
 
 To complete this project, the following steps were taken: 
-   1. Create the Category and Subcategory DataFrames
-   2. Create the Campaign DataFrame
-   3. Create the Contacts DataFrame
-   4. Create the Crowdfunding Database
+1. Create the Category and Subcategory DataFrames
+2. Create the Campaign DataFrame
+3. Create the Contacts DataFrame
+4. Create the Crowdfunding Database
 
 ## Create the Category and Subcategory DataFrames
 Using the providied Excel file, "crowdfunding.xlsx", a DataFrame was created with the two column names, "category_id" and "category". 
