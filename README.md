@@ -14,20 +14,20 @@ This new DataFrame was then exported to a new csv called, "category.csv". These 
 
 ## Create the Campaign DataFrame
 Using the same providied Excel file, "crowdfunding.xlsx", a new DataFrame was created with the following columns (including conversions): 
-      -cf_id
-      -contact_id
-      -company_name
-      -"blurb", renamed to "description"
-      -"goal", converted to float
-      -"pledged", converted to float
-      -outcome
-      -backers_count
-      -country
-      -currency
-      -"launched_at" column, renamed to "launch_date" and the UTC times converted to the datetime format
-      -"deadline" column, renamed to "end_date" and the UTC times converted to the datetime format
-      -"category_id", with unique identification numbers matching those in the "category_id" column of the category DataFrame
-      -"subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
+-cf_id
+-contact_id
+-company_name
+-"blurb", renamed to "description"
+-"goal", converted to float
+-"pledged", converted to float
+-outcome
+-backers_count
+-country
+-currency
+-"launched_at" column, renamed to "launch_date" and the UTC times converted to the datetime format
+-"deadline" column, renamed to "end_date" and the UTC times converted to the datetime format
+-"category_id", with unique identification numbers matching those in the "category_id" column of the category DataFrame
+-"subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
 
 This new DataFrame was then converted to a new csv called, "campaign.csv". 
 
